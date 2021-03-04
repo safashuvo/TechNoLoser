@@ -1,0 +1,117 @@
+@media screen and (max-width: 575.98px) {
+    .about_sec .container {
+        padding: 50px 20px;
+    }
+    .custom-shape-divider-top-1612368886 svg {
+        height: 30px;
+    }
+    .custom-shape-divider-bottom-1612368435 svg {
+        height: 30px;
+    }
+    .about_sec .container .row .aboutCol2 {
+        width: 0;
+        display: none;
+    }
+    .about_sec .container .row .aboutCol1 {
+        width: 100%;
+    }
+    .ftco-animated {
+        width: 50%;
+    }
+    .ftco-counter .text {
+        width: 60%;
+    }
+    .ftco-counter .text span {
+        font-size: 12px;
+    }
+    .ftco-counter .text .number {
+        font-size: 22px;
+    }
+    .countbottom {
+        margin-bottom: 0px !important;
+    }
+    .feature .container {
+        padding: 80px 10px;
+        width: 100%;
+    }
+    .feature .container .content {
+        width: 100%;
+    }
+    .skill .container {
+        padding: 80px 10px;
+    }
+    .skill .container .featureHeader h1 {
+        font-size: 25px;
+    }
+    .skill .container .featureHeader p {
+        font-size: 15px;
+        color: #dedede;
+    }
+    .skill .container .row .col-6 {
+        width: 100%;
+        padding: 0 50px;
+    }
+    .testimonial .container .featureHeader h1 {
+        font-size: 25px;
+    }
+    .testimonial .container .featureHeader p {
+        font-size: 15px;
+        color: #dedede;
+    }
+    .testimonial .container {
+        padding: 80px 0px;
+    }
+    footer .container {
+        padding: 80px 10px 0px 10px;
+    }
+    footer .container .row .footerCol {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    footer .copyright .content {
+        width: 100%;
+    }
+    .copycol2 {
+        display: none;
+    }
+    .copycol1 {
+        text-align: center;
+        width: 100%;
+    }
+    footer .container .row .footerCol .content .footerDescription p {
+        padding-bottom: 50px;
+    }
+    .about_sec .container .row .col a {
+        padding: 10px 20px;
+    }
+    .feature .container .featureHeader h1 {
+        font-size: 25px;
+    }
+    .feature .container .featureHeader p {
+        font-size: 15px;
+        color: #dedede;
+    }
+    .navbar-light .navbar-toggler {
+        background: #01f53d;
+        padding: 2px 9px;
+        font-size: 18px;
+        color: #fece0a;
+    }
+    .skill .container .row .col-6 {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .skill .container .row {
+        width: 100%;
+        margin: 0;
+    }
+}
+
+
+/* @media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 992px) {}
+
+@media screen and (min-width: 1200px) {}
+
+@media screen and (min-width: 1400px) {} */
